@@ -1,14 +1,16 @@
 {
-  "name": "array_methods",
+  "name": "awesome_methods",
   "version": "1.0.0",
-  "description": "I Love Ruby ! I think to  add some methods to JavaScript already exist in ruby",
-  "main": "array_methods.js",
+  "description": "I Love Ruby ! I think, good add some awesome functions already exist in ruby or other language to JavaScript ",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "TalaatMagdy/array_methods",
+  "repository": "TalaatMagdy/awesome_methods",
   "keywords": [
-    "array", "array methods", "array iteration"
+    "array",
+    "array methods",
+    "array iteration"
   ],
   "author": "",
   "license": "MIT"
