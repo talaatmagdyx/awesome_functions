@@ -1,17 +1,22 @@
 {
-  "name": "awesome_methods",
+  "name": "@TalaatMagdy/awesome_methods",
   "version": "1.0.0",
   "description": "I Love Ruby ! I think, good add some awesome functions already exist in ruby or other language to JavaScript ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "TalaatMagdy/awesome_methods",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalaatMagdy/awesome_methods"
+  },
   "keywords": [
     "array",
     "array methods",
     "array iteration"
   ],
-  "author": "",
-  "license": "MIT"
+  "author": "talaatmagdy",
+  "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+
 }
