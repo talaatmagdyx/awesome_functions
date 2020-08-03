@@ -1,0 +1,15 @@
+{
+  "name": "array_methods",
+  "version": "1.0.0",
+  "description": "I Love Ruby ! I think to  add some methods to JavaScript already exist in ruby",
+  "main": "array_methods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "TalaatMagdy/array_methods",
+  "keywords": [
+    "array", "array methods", "array iteration"
+  ],
+  "author": "",
+  "license": "MIT"
+}
