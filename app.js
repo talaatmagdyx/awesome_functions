@@ -1,2 +1,4 @@
 require('./lib/methods');
-console.log([-1, 0, 2, -2, 1].pairsSumToZero());
+x = [1,2,3]
+console.log(x.delete_at(1))
+console.log(x)
