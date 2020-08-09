@@ -1,4 +1,4 @@
 require('./lib/methods');
-x = [1,2,3]
-console.log(x.delete_at(1))
+x = ['js', 'node', 'this', 'ruby']
+console.log(x.max(2))
 console.log(x)
