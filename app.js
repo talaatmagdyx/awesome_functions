@@ -1,4 +1,3 @@
 require('./lib/methods');
-x = ['js', 'node', 'this', 'ruby']
-console.log(x.max(2))
-console.log(x)
+x = [1, 2, 3, 4, 5]
+console.log([1, 2, 3, 4, 5])
